@@ -1,0 +1,7 @@
+The 'file dataset-TCs.mat' contains a total of 18 data matrices corresponding to the core experimental datasets used in this study.
+The variables ‘EX’ and ‘EM’ represent the excitation and emission wavelength ranges, respectively.
+‘Blank_01’, ‘Blank_02’, and ‘Blank_03’ correspond to blank background measurements.
+‘C01’–‘C07’ represent the calibration set samples.
+‘P00_01’, ‘P00_02’, and ‘P00_03’ correspond to real (unspiked) samples.
+‘P01’, ‘P02’, and ‘P03’ correspond to spiked samples used as the prediction set.
+All datasets were collected under the same experimental conditions as described in the Materials and Methods section and were used for EEM data analysis and PARAFACM modeling in this work.
